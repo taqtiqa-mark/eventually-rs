@@ -3,11 +3,11 @@
 ## Tech Stack
 taqtiqa-mark/eventually-rs is built on the following main stack:
 
-- [Python](https://www.python.org) – Languages
-- [Redis](http://redis.io/) – In-Memory Databases
-- [Rust](http://www.rust-lang.org/) – Languages
 - [Lua](http://www.lua.org/) – Languages
+- [Python](https://www.python.org) – Languages
+- [Rust](http://www.rust-lang.org/) – Languages
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [Redis](http://redis.io/) – In-Memory Databases
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -18,11 +18,11 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 taqtiqa-mark/eventually-rs is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png' alt='Lua'/> [Lua](http://www.lua.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [taqtiqa-mark/eventually-rs](https://github.com/taqtiqa-mark/eventually-rs)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/05/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
